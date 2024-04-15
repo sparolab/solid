@@ -16,7 +16,7 @@
 ## SOLiD SLAM
 * SOLiD can be integrated with any LiDAR type (e.g. spinning LiDAR or solid-state LiDAR) and any LiDAR Odometry algorithm. Also, lightweight characteristic can be improved Multi-Robot SLAM. 
 	* Integrated with A-LOAM (TBD)
-	* Integrated with Livox-LOAM (TBD)
+	* Integrated with LOAM-Livox (TBD)
 	* Integrated with LIO-SAM (TBD)
 	* Integrated with FAST-LIO2 (TBD)
 	* Integrated with ICP odometry (TBD)
