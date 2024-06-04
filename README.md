@@ -3,9 +3,9 @@
 <div>
 
 ![image](fig/kitti05_solid.gif)
-</div>
-
 > SOLiD SLAM with $60^\circ$ FOV LiDAR.  
+
+</div>
 
 </div>
 
