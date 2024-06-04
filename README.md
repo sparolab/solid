@@ -6,7 +6,7 @@
 Under review.
 The code will be uploaded upon acceptance of the paper.
 <div align="center">
-![image](fig/kitti05_solid.gif)
+	<h1>![image](fig/kitti05_solid.gif)</h1>
 </div>
 
 ## Supplementary
