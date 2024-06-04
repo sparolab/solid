@@ -1,7 +1,4 @@
-<div align="center">
-    <h1> SOLiD </h1>	
-</div>
-
+SOLiD
 ![image](fig/kitti05_solid.gif)
 > SOLiD SLAM with $60^\circ$ FOV in KITTI 05
 
