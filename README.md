@@ -1,16 +1,13 @@
 <div align="center">
     <h1>SOLiD </h1>
 <div>
-	
+This repository is the official code for **Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition. (Under-Review)**
+ 
 ![image](fig/kitti05_solid.gif)
 
 </div>
 
 </div>
-
-* **Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**
-	* Under review.
-	* The code will be uploaded upon acceptance of the paper.
 
 ## Supplementary
 * [Project page](https://sites.google.com/view/lidar-solid)
