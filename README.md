@@ -1,8 +1,10 @@
 <div align="center">
     <h1> SOLiD </h1>
-</div>
+<div>
 
 ![image](fig/kitti05_solid.gif)
+</div>
+
 </div>
 
 > SOLiD SLAM with $60^\circ$ FOV LiDAR.  
