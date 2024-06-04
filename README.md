@@ -15,3 +15,6 @@
 * [Taehu Sim](https://scholar.google.com/citations?user=UPg-JuQAAAAJ&hl=ko)
 * [Giseop Kim](https://scholar.google.com/citations?user=9mKOLX8AAAAJ&hl=ko)
 * [Younggun Cho](https://scholar.google.com/citations?user=W5MOKWIAAAAJ&hl=ko)
+
+## Contact
+* Hogyun Kim (hg.kim@inha.edu)
