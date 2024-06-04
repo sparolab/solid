@@ -5,7 +5,7 @@
 ![image](fig/kitti05_solid.gif)
 </div>
 
-> SOLiD SLAM with 60$\circ$ FOV LiDAR.  
+> SOLiD SLAM with $60\circ$ FOV LiDAR.  
 
 
 * **Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**
