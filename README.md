@@ -1,6 +1,5 @@
 <div align="center">
     <h1> SOLiD </h1>
-<div>
 </div>
 
 * **Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**
