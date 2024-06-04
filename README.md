@@ -1,4 +1,4 @@
-SOLiD
+## SOLiD
 ![image](fig/kitti05_solid.gif)
 > SOLiD SLAM with $60^\circ$ FOV in KITTI 05
 
