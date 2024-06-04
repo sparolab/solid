@@ -2,6 +2,7 @@
 * **Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**
 	* Under review.
 	* The code will be uploaded upon acceptance of the paper.
+
 ![image](fig/kitti05_solid.gif)
 > SOLiD SLAM with $60^\circ$ FOV in KITTI 05
 
