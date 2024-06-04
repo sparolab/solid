@@ -12,9 +12,6 @@
 	* Under review.
 	* The code will be uploaded upon acceptance of the paper.
 
-![image](fig/kitti05_solid.gif)
-> SOLiD SLAM with $60^\circ$ FOV in KITTI 05
-
 ## Supplementary
 * [Project page](https://sites.google.com/view/lidar-solid)
 
