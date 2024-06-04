@@ -3,11 +3,8 @@
 </div>
 
 **Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**
-Under review.
-The code will be uploaded upon acceptance of the paper.
-
- <h1>[image](fig/kitti05_solid.gif)</h1>
-</div>
+	* Under review.
+	* The code will be uploaded upon acceptance of the paper.
 
 ## Supplementary
 * [Project page](https://sites.google.com/view/lidar-solid)
