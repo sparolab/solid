@@ -3,10 +3,9 @@ This repository is the official code for **Narrowing your FOV with SOLiD: Spatia
  
 ![image](fig/kitti05_solid.gif)
 
-</div>
-
-</div>
 ## Note
+* SOLiD can be integrated with various LiDAR odometry including solid-state LiDAR.
+	* (TBD) Integrated with A-LOAM: SOLiD-A-LOAM
 
 ## NEWS
 * [July, 2024] SOLiD is accepted in RA-L!!
