@@ -8,6 +8,7 @@ This repository is the official code for **Narrowing your FOV with SOLiD: Spatia
 	* (TBD) Integrated with A-LOAM: [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
 
 ## NEWS
+* [August, 2024] Code will be released in August!!
 * [July, 2024] SOLiD is accepted in RA-L!!
 
 ## Supplementary
