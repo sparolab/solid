@@ -21,5 +21,21 @@ This repository is the official code for **Narrowing your FOV with SOLiD: Spatia
 * [Giseop Kim](https://scholar.google.com/citations?user=9mKOLX8AAAAJ&hl=ko)
 * [Younggun Cho](https://scholar.google.com/citations?user=W5MOKWIAAAAJ&hl=ko)
 
+## Citation
+<pre>
+<code>
+@ARTICLE{10629042,
+  author={Kim, Hogyun and Choi, Jiwon and Sim, Taehu and Kim, Giseop and Cho, Younggun},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Laser radar;Solids;Organizations;Simultaneous localization and mapping;Location awareness;Vectors;Navigation;LiDAR;Limited FOV;Place Recognition;Lightweight;Onboard Computing},
+  doi={10.1109/LRA.2024.3440089}}
+</code>
+</pre>  
+
 ## Contact
 * Hogyun Kim (hg.kim@inha.edu)
