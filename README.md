@@ -12,6 +12,8 @@ This repository is the official code for **Narrowing your FOV with SOLiD: Spatia
 * [July, 2024] SOLiD is accepted in RA-L!!
 
 ## Supplementary
+* [Paper](https://ieeexplore.ieee.org/abstract/document/10629042)
+* [Video](https://www.youtube.com/watch?v=4sAWWfZTwLs)
 * [Project page](https://sites.google.com/view/lidar-solid)
 
 ## Main Contribution
