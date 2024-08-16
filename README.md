@@ -1,7 +1,7 @@
 <div align="center">
     <h1>SOLiD </h1>
 <div>
-[![ProjectPage](fig/badges/badge-website.svg)](https://sites.google.com/view/joint-id/home)
+[ProjectPage](fig/badges/badge-website.svg)(https://sites.google.com/view/joint-id/home)
 [![Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)](https://ieeexplore.ieee.org/abstract/document/10351035)
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=1GOoHCSpNXE&t=3s) 
 [![Docker](https://badges.aleen42.com/src/docker.svg)](https://hub.docker.com/r/ygm7422/official_joint_id)
