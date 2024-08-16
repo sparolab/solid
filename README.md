@@ -9,21 +9,26 @@
   <br />
   <br />
 
-  <p align="center"><img src=![solid_generation](https://github.com/user-attachments/assets/c2d561fa-59d2-44db-aab4-d92c9bf09130) alt="animated" /></p>
+**[IEEE RA-L]** This repository is the official code for Narrowing your FOV with **SOLiD**: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition.
 
-  This repository is the official code for Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition (IEEE RA-L).
+  <p align="center"><img src="fig/solid_generation.png") alt="animated" width="75%" /></p>
+  
 </div>
- 
-## What is the SOLiD?
-![solid_generation](https://github.com/user-attachments/assets/c2d561fa-59d2-44db-aab4-d92c9bf09130)
-
-## Note
-* SOLiD can be integrated with various LiDAR odometry including solid-state LiDAR.
-	* (TBD) Integrated with A-LOAM: [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
 
 ## NEWS
 * [August, 2024] Code will be released in August!!
 * [July, 2024] SOLiD is accepted in RA-L!!
+
+## Note
+* SOLiD can be integrated with various LiDAR odometry including solid-state LiDAR.
+	* (TBD) Integrated with A-LOAM: [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
+	* (TBD) Integrated with LOAM-LIVOX: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-A-LOAM.git)
+
+## What are the problems with LiDAR Place Recognition?
+* 
+
+## What is the SOLiD?
+* SOLiD is a lightweight and fast LiDAR global descriptor for FOV constraints situations that are limited through fusion with other sensors or blocked by robot/sensor operators including mechanical components or solid-state LiDAR (e.g. Livox).
 
 ## Supplementary
 * [Arxiv](https://arxiv.org/abs/2408.07330#)
