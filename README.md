@@ -14,16 +14,17 @@
   <p align="center"><img src="fig/solid_generation.png") alt="animated" width="75%" /></p>
   
 </div>
- 
+
+## NEWS
+* [August, 2024] Code will be released in August!!
+* [July, 2024] SOLiD is accepted in RA-L!!
+
 ## What is the SOLiD?
 
 ## Note
 * SOLiD can be integrated with various LiDAR odometry including solid-state LiDAR.
 	* (TBD) Integrated with A-LOAM: [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
-
-## NEWS
-* [August, 2024] Code will be released in August!!
-* [July, 2024] SOLiD is accepted in RA-L!!
+	* (TBD) Integrated with LOAM-LIVOX: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-A-LOAM.git)
 
 ## Supplementary
 * [Arxiv](https://arxiv.org/abs/2408.07330#)
