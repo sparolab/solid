@@ -24,7 +24,7 @@
 	* (TBD) Integrated with A-LOAM: [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
 	* (TBD) Integrated with LOAM-LIVOX: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-A-LOAM.git)
 
-## What are the Problems in the LiDAR Place Recognition?
+## What are the problems with LiDAR Place Recognition?
 * 
 
 ## What is the SOLiD?
