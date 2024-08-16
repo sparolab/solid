@@ -19,13 +19,13 @@
 * [August, 2024] Code will be released in August!!
 * [July, 2024] SOLiD is accepted in RA-L!!
 
-## What is the SOLiD?
-* SOLiD is a lightweight and fast LiDAR global descriptor for FOV constraints situations that are limited through fusion with other sensors or blocked by robot/sensor operators including mechanical components or solid-state LiDAR (e.g. Livox).
-
 ## Note
 * SOLiD can be integrated with various LiDAR odometry including solid-state LiDAR.
 	* (TBD) Integrated with A-LOAM: [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
 	* (TBD) Integrated with LOAM-LIVOX: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-A-LOAM.git)
+
+## What is the SOLiD?
+* SOLiD is a lightweight and fast LiDAR global descriptor for FOV constraints situations that are limited through fusion with other sensors or blocked by robot/sensor operators including mechanical components or solid-state LiDAR (e.g. Livox).
 
 ## Supplementary
 * [Arxiv](https://arxiv.org/abs/2408.07330#)
