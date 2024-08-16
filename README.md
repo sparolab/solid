@@ -22,7 +22,7 @@
 </div>
 
 ## What is the SOLiD?
-[solid_generation.pdf](https://github.com/user-attachments/files/16634241/solid_generation.pdf)
+![solid_generation](https://github.com/user-attachments/assets/c2d561fa-59d2-44db-aab4-d92c9bf09130)
 
 ## Note
 * SOLiD can be integrated with various LiDAR odometry including solid-state LiDAR.
