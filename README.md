@@ -1,6 +1,12 @@
 <div align="center">
   <h1>SOLiD</h1>
-  <a href="https://www.youtube.com/watch?v=1GOoHCSpNXE&t=3s">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10629042">
+    <img src="https://img.shields.io/badge/📄%20Paper-PDF-yellow" alt="Paper" />
+  </a>
+  <a href="https://arxiv.org/abs/2408.07330">
+    <img src="https://img.shields.io/badge/arXiv-2408.07330-b31b1b.svg?style=flat-square" alt="Arxiv" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=4sAWWfZTwLs">
     <img src="https://badges.aleen42.com/src/youtube.svg" alt="YouTube" />
   </a>
 <div>
