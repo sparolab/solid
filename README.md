@@ -21,6 +21,9 @@
   <img src="fig/kitti05_solid.gif" alt="LiDAR GIF" />
 </div>
 
+## What is the SOLiD?
+![main_fig](fig/solid_generation.pdf)
+
 ## Note
 * SOLiD can be integrated with various LiDAR odometry including solid-state LiDAR.
 	* (TBD) Integrated with A-LOAM: [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
