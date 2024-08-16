@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>SOLiD [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=1GOoHCSpNXE&t=3s) 
-</h1>
+    <h1>SOLiD </h1>
+[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=1GOoHCSpNXE&t=3s)
 <div>
 This repository is the official code for Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition. (IEEE RA-L)
 </div>
