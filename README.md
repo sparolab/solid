@@ -5,7 +5,7 @@
   </a>
   
   <a href="https://ieeexplore.ieee.org/abstract/document/10629042">
-    <img src="https://img.shields.io/badge/📄%20Paper-PDF-yellow" alt="Paper" />
+    <img src="https://img.shields.io/badge/Paper-PDF-yellow" alt="Paper" />
   </a>
 	
   <a href="https://arxiv.org/abs/2408.07330">
@@ -16,12 +16,14 @@
     <img src="https://badges.aleen42.com/src/youtube.svg" alt="YouTube" />
   </a>
 
-<div>
-This repository is the official code for Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition. (IEEE RA-L)
-</div>
+  <div>
+    This repository is the official code for Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition. (IEEE RA-L)
+  </div>
 </div>
  
-![image](fig/kitti05_solid.gif)
+<div align="center">
+  <img src="fig/kitti05_solid.gif" alt="LiDAR GIF" />
+</div>
 
 ## Note
 * SOLiD can be integrated with various LiDAR odometry including solid-state LiDAR.
