@@ -1,11 +1,11 @@
 <div align="center">
     <h1>SOLiD </h1>
 <div>
-[Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)(https://ieeexplore.ieee.org/abstract/document/10351035)
+This repository is the official code for Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition. (IEEE RA-L)
 </div>
 </div>
 
-This repository is the official code for Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition. (IEEE RA-L)
+[Paper](https://img.shields.io/badge/📄%20Paper-PDF-yellow)(https://ieeexplore.ieee.org/abstract/document/10351035)
  
 ![image](fig/kitti05_solid.gif)
 
