@@ -37,8 +37,27 @@
   <p align="center"><img src="fig/method.png") alt="animated" width="75%" /></p>
 
 ## How to use the SOLiD?
-* python version
-* cpp version
+* Python version
+<pre>
+<code>
+    $ git clone https://github.com/sparolab/solid.git
+    $ cd python
+    $ python3 test.py
+</code>
+</pre>  
+
+* Cpp version
+<pre>
+<code>
+    $ git clone https://github.com/sparolab/solid.git
+    $ cd cpp
+    $ mkdir build
+    $ cd build
+    $ cmake ..
+    $ make
+    % ./test_solid
+</code>
+</pre>  
 
 ## Supplementary
 * [Arxiv](https://arxiv.org/abs/2408.07330#)
