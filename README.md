@@ -63,6 +63,16 @@
 </code>
 </pre>  
 
+## Utils
+* If you want to clip the points, you can use python/bin/point_clipper.py
+<pre>
+<code>
+    $ git clone https://github.com/sparolab/solid.git
+    $ cd python/bin/
+    $ python3 point_clipper.py
+</code>
+</pre>  
+
 ## Supplementary
 * [Arxiv](https://arxiv.org/abs/2408.07330#)
 * [Paper](https://ieeexplore.ieee.org/abstract/document/10629042)
