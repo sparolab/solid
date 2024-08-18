@@ -44,9 +44,6 @@ Eigen::VectorXd SOLiDModule::makeSolid(pcl::PointCloud<PointType> &scan_down)
     angle_matrix.setZero();
     solid.setZero();
 
-    // float gap_angle = 360/NUM_ANGLE;
-    // float gap_range = MAX_DISTANCE/NUM_RANGE;
-    // float gap_height = (FOV_u - FOV_d) / NUM_HEIGHT;
     float gap_angle = 360.0/NUM_ANGLE;
     float gap_range = static_cast<float>(MAX_DISTANCE)/NUM_RANGE;
     float gap_height = (FOV_u - FOV_d) / NUM_HEIGHT;
@@ -54,7 +51,6 @@ Eigen::VectorXd SOLiDModule::makeSolid(pcl::PointCloud<PointType> &scan_down)
     for(int i = 0; i < scan_down.points.size(); i++)
     {
         RAH rah = pt2rah(scan_down.points[i], gap_angle, gap_range, gap_height);
-        // std::cout << "idx_range :  " << rah.idx_range << "  idx_angle :  " << rah.idx_angle << "  idx_height :  " << rah.idx_height << std::endl;
         range_matrix(rah.idx_range, rah.idx_height) +=1;
         angle_matrix(rah.idx_angle, rah.idx_height) +=1;
     }
@@ -65,27 +61,16 @@ Eigen::VectorXd SOLiDModule::makeSolid(pcl::PointCloud<PointType> &scan_down)
     {
         number_vector(col_idx) = range_matrix.col(col_idx).sum();
     }
-    // std::cout << range_matrix.cols() << std::endl;
-    // std::cout << range_matrix << std::endl;
-    // std::cout << number_vector << std::endl;
-    // int sum = 0;
-    // for(int i=0; i<number_vector.size(); i++){
-    //     sum += number_vector(i);
-    // }
-    // std::cout << sum << std::endl;
-    // min max nomalization
+
     double min_val = number_vector.minCoeff();
     double max_val = number_vector.maxCoeff();
     number_vector = (number_vector.array() - min_val) / (max_val - min_val);
-    // std::cout << min_val << std::endl;
-    // std::cout << range_matrix << "   "  <<  number_vector << std::endl;
-    // std::cout << "========================" << std::endl;
+
     Eigen::VectorXd range_solid = range_matrix * number_vector;
     Eigen::VectorXd angle_solid = angle_matrix * number_vector;
 
     solid.head(NUM_RANGE) = range_solid;
     solid.tail(NUM_ANGLE) = angle_solid;
-    // std::cout << rnge_solid << std::endl;
     return solid;
 }
 
@@ -160,4 +145,3 @@ void SOLiDModule::down_sampling(pcl::PointCloud<PointType> & scan_raw, pcl::Poin
     downSizeFilterSolid.setLeafSize(VOXEL_SIZE, VOXEL_SIZE, VOXEL_SIZE);
     downSizeFilterSolid.filter(*scan_down);
 }
-//////////////////////////////////////////////////////////////////////////
