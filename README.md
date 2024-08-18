@@ -29,7 +29,7 @@
 		* KD-Tree version is here.
 
 ## What are the problems with traditional LiDAR Place Recognition?
-* The traditional method uses a bire eye view and overlooks vertical information.
+* The traditional method uses a bird eye view and overlooks vertical information.
 * Also, because it focuses on performance, it is difficult to apply in real-time on an onboard computer.
   <p align="center"><img src="fig/problem.png") alt="animated" width="50%" /></p>
 
