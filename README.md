@@ -16,7 +16,7 @@
 </div>
 
 ## NEWS
-* [August, 2024] Code will be released in August!!
+* [August, 2024] Now, the SOLiD code is released!!
 * [July, 2024] SOLiD is accepted in RA-L!!
 
 ## Note
