@@ -88,7 +88,7 @@
 * [Younggun Cho](https://scholar.google.com/citations?user=W5MOKWIAAAAJ&hl=ko)
 
 ## QnA
-* If you have a question, you utilize a [alphaxiv](https://www.alphaxiv.org/abs/2408.07330) and comment here.
+* If you have a question, you utilize a [alphaXiv](https://www.alphaxiv.org/abs/2408.07330) and comment here.
 ## Citation
 <pre>
 <code>
