@@ -31,6 +31,10 @@
 * SOLiD is a lightweight and fast LiDAR global descriptor for FOV constraints situations that are limited through fusion with other sensors or blocked by robot/sensor operators including mechanical components or solid-state LiDAR (e.g. Livox).
   <p align="center"><img src="fig/method.png") alt="animated" width="75%" /></p>
 
+## How to use the SOLiD?
+* python version
+* cpp version
+
 ## Supplementary
 * [Arxiv](https://arxiv.org/abs/2408.07330#)
 * [Paper](https://ieeexplore.ieee.org/abstract/document/10629042)
