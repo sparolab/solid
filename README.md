@@ -38,6 +38,7 @@
 
 ## How to use the SOLiD?
 * Python version
+	* If you use the other LiDAR sensor, you modify the parameters in parser of test.py and lidar file structure in utils/point_module.py.
 <pre>
 <code>
     $ git clone https://github.com/sparolab/solid.git
