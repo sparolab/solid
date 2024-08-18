@@ -16,7 +16,8 @@
 </div>
 
 ## NEWS
-* [August, 2024] Code will be released in August!!
+* [August, 2024] The SOLiD is added in [awesome-place-recognition](https://github.com/hogyun2/awesome-lidar-place-recognition)!!
+* [August, 2024] Now, the SOLiD code is released!!
 * [July, 2024] SOLiD is accepted in RA-L!!
 
 ## Note
@@ -28,6 +29,8 @@
 		* KD-Tree version is here.
 
 ## What are the problems with traditional LiDAR Place Recognition?
+* The traditional method uses a bire eye view and overlooks vertical information.
+* Also, because it focuses on performance, it is difficult to apply in real-time on an onboard computer.
   <p align="center"><img src="fig/problem.png") alt="animated" width="50%" /></p>
 
 ## What is the SOLiD?
@@ -35,8 +38,30 @@
   <p align="center"><img src="fig/method.png") alt="animated" width="75%" /></p>
 
 ## How to use the SOLiD?
-* python version
-* cpp version
+* Python version
+	* If you use the other LiDAR sensor, you modify the parameters in parser of test.py and lidar file structure in utils/point_module.py.
+<pre>
+<code>
+    $ git clone https://github.com/sparolab/solid.git
+    $ cd python
+    $ python3 test.py
+</code>
+</pre>  
+
+* Cpp version
+	* If you use the other LiDAR sensor, you modify the parameters in include/solid_module.h.
+
+<pre>
+<code>
+    $ git clone https://github.com/sparolab/solid.git
+    $ cd cpp
+    $ mkdir build
+    $ cd build
+    $ cmake ..
+    $ make
+    $ ./test_solid
+</code>
+</pre>  
 
 ## Supplementary
 * [Arxiv](https://arxiv.org/abs/2408.07330#)
