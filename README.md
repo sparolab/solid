@@ -24,11 +24,12 @@
 	* (TBD) Integrated with A-LOAM: [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
 	* (TBD) Integrated with LOAM-LIVOX: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-A-LOAM.git)
 
-## What are the problems with LiDAR Place Recognition?
-* 
+## What are the problems with traditional LiDAR Place Recognition?
+  <p align="center"><img src="fig/problem.png") alt="animated" width="50%" /></p>
 
 ## What is the SOLiD?
 * SOLiD is a lightweight and fast LiDAR global descriptor for FOV constraints situations that are limited through fusion with other sensors or blocked by robot/sensor operators including mechanical components or solid-state LiDAR (e.g. Livox).
+  <p align="center"><img src="fig/method.png") alt="animated" width="75%" /></p>
 
 ## Supplementary
 * [Arxiv](https://arxiv.org/abs/2408.07330#)
