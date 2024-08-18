@@ -48,6 +48,8 @@
 </pre>  
 
 * Cpp version
+	* If you use the other LiDAR sensor, you modify the parameters in include/solid_module.h.
+
 <pre>
 <code>
     $ git clone https://github.com/sparolab/solid.git
