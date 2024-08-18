@@ -56,7 +56,7 @@
     $ cd build
     $ cmake ..
     $ make
-    % ./test_solid
+    $ ./test_solid
 </code>
 </pre>  
 
