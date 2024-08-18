@@ -54,7 +54,7 @@ int main(int argc, char** argv)
     // 2. Generate SOLiD
     Eigen::VectorXd cadidates2_solid = solid.makeSolid(*downsampled_pts3);
 
-
+    // 3. Place Recognition
     double similarity1 = solid.loop_detection(query_solid, candidates1_solid);
     double similarity2 = solid.loop_detection(query_solid, cadidates2_solid);
 
