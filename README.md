@@ -17,6 +17,7 @@
 </div>
 
 ## NEWS
+* [August, 2024] Now, the PyICP-SOLiD-SLAM's code is released!!
 * [August, 2024] The SOLiD is added in [awesome-lidar-place-recognition](https://github.com/hogyun2/awesome-lidar-place-recognition)!!
 * [August, 2024] Now, the SOLiD code is released!!
 * [July, 2024] SOLiD is accepted in RA-L!!
@@ -25,7 +26,7 @@
 * SOLiD can be integrated with various LiDAR odometry including solid-state LiDAR.
 	* (TBD) Integrated with A-LOAM: [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
 	* (TBD) Integrated with LOAM-LIVOX: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-A-LOAM.git)
-	* (TBD) Integrated with a basic ICP odometry: [PyICP-SOLiD-SLAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
+	* Integrated with a basic ICP odometry: [PyICP-SOLiD-SLAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
 		* This implementation is fully python-based so slow but educational purpose.
 		* KD-Tree version is here.
 
