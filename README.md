@@ -17,7 +17,7 @@
 </div>
 
 ## NEWS
-* [August, 2024] Now, the PyICP-SOLiD-SLAM's code is released!!
+* [August, 2024] Now, the [PyICP-SOLiD-SLAM](https://github.com/sparolab/SOLiD-PyICP-SLAM) code is released!!
 * [August, 2024] The SOLiD is added in [awesome-lidar-place-recognition](https://github.com/hogyun2/awesome-lidar-place-recognition)!!
 * [August, 2024] Now, the SOLiD code is released!!
 * [July, 2024] SOLiD is accepted in RA-L!!
