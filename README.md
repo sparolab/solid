@@ -9,7 +9,11 @@
   <a href="https://www.youtube.com/watch?v=4sAWWfZTwLs"><img src="https://badges.aleen42.com/src/youtube.svg" alt="YouTube" /></a>
   <br />
 
-  <a href="https://uav.hkust.edu.hk/current-members/" target="_blank">Hogyun Kim</a><sup>*†</sup>,
+  <a href="https://scholar.google.com/citations?user=t5UEbooAAAAJ&hl=ko" target="_blank">Hogyun Kim</a><sup>*†</sup>,
+  <a href="https://scholar.google.com/citations?user=t5UEbooAAAAJ&hl=ko" target="_blank">Jiwon Choi</a><sup>*†</sup>,
+  <a href="https://scholar.google.com/citations?user=t5UEbooAAAAJ&hl=ko" target="_blank">Taehu Sim</a><sup>*†</sup>,
+  <a href="https://scholar.google.com/citations?user=t5UEbooAAAAJ&hl=ko" target="_blank">Giseop Kim</a><sup>*†</sup>,
+  <a href="https://scholar.google.com/citations?user=t5UEbooAAAAJ&hl=ko" target="_blank">Younggun Cho</a><sup>*†</sup>,
 
   <br />
 
