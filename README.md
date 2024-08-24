@@ -18,7 +18,7 @@
   <a href="https://scholar.google.com/citations?user=9mKOLX8AAAAJ&hl=ko" target="_blank">Giseop Kim</a><sup></sup>,
   <a href="https://scholar.google.com/citations?user=W5MOKWIAAAAJ&hl=ko" target="_blank">Younggun Cho</a><sup>†</sup>
 
-**Spatial AI and Robotics Lab (SPARO)**
+**[Spatial AI and Robotics Lab (SPARO)](https://sites.google.com/view/sparo/%ED%99%88?authuser=0&pli=1)**
 
   <p align="center"><img src="fig/solid_generation.png") alt="animated" width="75%" /></p>
   
