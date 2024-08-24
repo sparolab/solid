@@ -33,8 +33,8 @@
 ## Note
 * SOLiD can be integrated with various LiDAR odometry including solid-state LiDAR.
 	* (TBD) Integrated with A-LOAM: [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
-	* (TBD) Integrated with LOAM-LIVOX: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-A-LOAM.git)
-	* Integrated with a basic ICP odometry: [SOLiD-PyICP-SLAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
+	* (TBD) Integrated with LOAM-LIVOX: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-LOAM-Livox.git)
+	* Integrated with a basic ICP odometry: [SOLiD-PyICP-SLAM](https://github.com/sparolab/SOLiD-PyICP-SLAM)
 		* This implementation is fully python-based so slow but educational purpose.
 
 ## What are the problems with traditional LiDAR Place Recognition?
