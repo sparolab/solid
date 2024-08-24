@@ -90,7 +90,7 @@
 
 ## QnA
 * If you have a question, you utilize a [alphaXiv](https://www.alphaxiv.org/abs/2408.07330) and comment here.
-* 
+  
 ## Citation
   ```
 	@article{kim2024narrowing,
