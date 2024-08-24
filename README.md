@@ -49,38 +49,31 @@
 ## How to use the SOLiD?
 * Python version
 	* If you use the other LiDAR sensor, you modify the parameters in parser of test.py and lidar file structure in utils/point_module.py.
-<pre>
-<code>
-    $ git clone https://github.com/sparolab/solid.git
-    $ cd python
-    $ python3 test.py
-</code>
-</pre>  
+	    ```
+	    $ git clone https://github.com/sparolab/solid.git
+	    $ cd python
+	    $ python3 test.py
+	    ```
 
 * Cpp version
 	* If you use the other LiDAR sensor, you modify the parameters in include/solid_module.h.
-
-<pre>
-<code>
-    $ git clone https://github.com/sparolab/solid.git
-    $ cd cpp
-    $ mkdir build
-    $ cd build
-    $ cmake ..
-    $ make
-    $ ./test_solid
-</code>
-</pre>  
+	  ```
+	    $ git clone https://github.com/sparolab/solid.git
+	    $ cd cpp
+	    $ mkdir build
+	    $ cd build
+	    $ cmake ..
+	    $ make
+	    $ ./test_solid
+	  ```
 
 ## Utils
 * If you want to clip the points, you can use python/bin/point_clipper.py
-<pre>
-<code>
+  ```
     $ git clone https://github.com/sparolab/solid.git
     $ cd python/bin/
     $ python3 point_clipper.py
-</code>
-</pre>  
+  ```
 
 ## Supplementary
 * [Arxiv](https://arxiv.org/abs/2408.07330#)
@@ -97,17 +90,18 @@
 
 ## QnA
 * If you have a question, you utilize a [alphaXiv](https://www.alphaxiv.org/abs/2408.07330) and comment here.
+* 
 ## Citation
-<pre>
-<code>
-@article{kim2024narrowing,
-  title={Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition},
-  author={Kim, Hogyun and Choi, Jiwon and Sim, Taehu and Kim, Giseop and Cho, Younggun},
-  journal={IEEE Robotics and Automation Letters},
-  year={2024},
-  publisher={IEEE}
-}</code>
-</pre>  
+  ```
+	@article{kim2024narrowing,
+	  title={Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition},
+	  author={Kim, Hogyun and Choi, Jiwon and Sim, Taehu and Kim, Giseop and Cho, Younggun},
+	  journal={IEEE Robotics and Automation Letters},
+	  year={2024},
+	  publisher={IEEE}
+	}
+  ```
+
 
 ## Contact
 * Hogyun Kim (hg.kim@inha.edu)
