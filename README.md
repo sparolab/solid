@@ -20,7 +20,7 @@
 
 **[Spatial AI and Robotics Lab (SPARO)](https://sites.google.com/view/sparo/%ED%99%88?authuser=0&pli=1)**
 
-  <p align="center"><img src="fig/solid_generation.png") alt="animated" width="75%" /></p>
+  <p align="center"><img src="fig/solid_example.png") alt="animated" width="75%" /></p>
   
 </div>
 
