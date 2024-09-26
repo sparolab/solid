@@ -23,7 +23,7 @@
   <p align="center"><img src="fig/solid_example.png") alt="animated" width="75%" /></p>
   
 </div>
-https://github.com/minwoo0611/HeLiPR-Place-Recognition.git
+
 ## NEWS
 * [September, 2024] SOLiD is introduced in [HeLiPR-Place-Recognition Toolbox](https://github.com/minwoo0611/HeLiPR-Place-Recognition.git)!!
 * [August, 2024] Now, the [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git) code is released!!
