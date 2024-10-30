@@ -39,6 +39,7 @@
 	* (TBD) Integrated with LOAM-LIVOX: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-LOAM-LIVOX.git)
 	* Integrated with a basic ICP odometry: [SOLiD-PyICP-SLAM](https://github.com/sparolab/SOLiD-PyICP-SLAM)
 		* This implementation is fully python-based so slow but educational purpose.
+	* Integrated with Distributed SLAM (Multi-Robot SLAM): [Distributed-SOLiD-SLAM]()
 
 ## What are the problems with traditional LiDAR Place Recognition?
 * The traditional method uses a bird eye view and overlooks vertical information.
