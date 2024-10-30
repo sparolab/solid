@@ -107,3 +107,6 @@
 
 ## Contact
 * Hogyun Kim (hg.kim@inha.edu)
+
+## License
+* For academic usage, the code is released under the BSD 3.0 license. For any commercial purpose, please contact the authors.
