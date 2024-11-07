@@ -25,7 +25,7 @@
 </div>
 
 ## NEWS
-* [October, 2024] [Distributed-SOLiD-SLAM](https://github.com/sparolab/Distributed-SOLiD-SLAM.git) will be released soon!!
+* [November, 2024] Now, [Distributed-SOLiD-SLAM](https://github.com/sparolab/Distributed-SOLiD-SLAM.git) code is released!!
 * [September, 2024] SOLiD is introduced in [HeLiPR-Place-Recognition Toolbox](https://github.com/minwoo0611/HeLiPR-Place-Recognition.git)!!
 * [August, 2024] Now, the [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git) code is released!!
 * [August, 2024] Now, the [SOLiD-PyICP-SLAM](https://github.com/sparolab/SOLiD-PyICP-SLAM) code is released!!
@@ -38,7 +38,7 @@
 	* Integrated with A-LOAM: [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
 	* (TBD) Integrated with LOAM-LIVOX: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-LOAM-LIVOX.git)
 	* Integrated with a basic ICP odometry: [SOLiD-PyICP-SLAM](https://github.com/sparolab/SOLiD-PyICP-SLAM)
-		* This implementation is fully python-based so slow but educational purpose.
+		* This implementation is fully Python-based so slow but for educational purposes.
 	* Integrated with Distributed SLAM (Multi-Robot SLAM): [Distributed-SOLiD-SLAM](https://github.com/sparolab/Distributed-SOLiD-SLAM.git)
 
 ## What are the problems with traditional LiDAR Place Recognition?
