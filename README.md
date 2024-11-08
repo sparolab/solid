@@ -33,10 +33,14 @@
 * [August, 2024] Now, the SOLiD code is released!!
 * [July, 2024] SOLiD is accepted in RA-L!!
 
+## Todo
+* [ ] Integrated with LOAM-LIVOX: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-LOAM-LIVOX.git)
+* [ ] Integrated with LIO-SAM: [SOLiD-LIO-SAM](https://github.com/sparolab/SOLiD-LIO-SAM)
+* [ ] Integrated with FAST-LIO2: [SOLiD-FAST-LIO2](https://github.com/sparolab/SOLiD-FAST-LIO2)
+
 ## Note
 * SOLiD can be integrated with various LiDAR odometry including solid-state LiDAR.
 	* Integrated with A-LOAM: [SOLiD-A-LOAM](https://github.com/sparolab/SOLiD-A-LOAM.git)
-	* (TBD) Integrated with LOAM-LIVOX: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-LOAM-LIVOX.git)
 	* Integrated with a basic ICP odometry: [SOLiD-PyICP-SLAM](https://github.com/sparolab/SOLiD-PyICP-SLAM)
 		* This implementation is fully Python-based so slow but for educational purposes.
 	* Integrated with Distributed SLAM (Multi-Robot SLAM): [Distributed-SOLiD-SLAM](https://github.com/sparolab/Distributed-SOLiD-SLAM.git)
