@@ -33,8 +33,9 @@
 * [August, 2024] Now, the SOLiD code is released!!
 * [July, 2024] SOLiD is accepted in RA-L!!
 
-## Todo
+## TODO
 * [ ] Integrated with LOAM-LIVOX: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-LOAM-LIVOX.git)
+* [ ] Integrated with KISS-ICP: [SOLiD-LOAM-LIVOX](https://github.com/sparolab/SOLiD-LOAM-LIVOX.git)
 * [ ] Integrated with LIO-SAM: [SOLiD-LIO-SAM](https://github.com/sparolab/SOLiD-LIO-SAM)
 * [ ] Integrated with FAST-LIO2: [SOLiD-FAST-LIO2](https://github.com/sparolab/SOLiD-FAST-LIO2)
 
