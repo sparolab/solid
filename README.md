@@ -59,7 +59,7 @@
 * Python version
 	* If you use the other LiDAR sensor, you modify the parameters in parser of test.py and lidar file structure in utils/point_module.py.
 	    ```
-	    $ git clone https://github.com/sparolab/solid.git
+	    $ git clone https://github.com/sparolab/SOLiD.git
 	    $ cd python
 	    $ python3 test.py
 	    ```
@@ -67,7 +67,7 @@
 * Cpp version
 	* If you use the other LiDAR sensor, you modify the parameters in include/solid_module.h.
 	  ```
-	    $ git clone https://github.com/sparolab/solid.git
+	    $ git clone https://github.com/sparolab/SOLiD.git
 	    $ cd cpp
 	    $ mkdir build
 	    $ cd build
@@ -79,7 +79,7 @@
 ## Utils
 * If you want to clip the points, you can use python/bin/point_clipper.py
   ```
-    $ git clone https://github.com/sparolab/solid.git
+    $ git clone https://github.com/sparolab/SOLiD.git
     $ cd python/bin/
     $ python3 point_clipper.py
   ```
