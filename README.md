@@ -37,6 +37,7 @@
 * [ ] Integrated with KISS-ICP: [SOLiD-KISS-ICP](https://github.com/sparolab/SOLiD-LOAM-LIVOX.git)
 * [ ] Integrated with LIO-SAM: [SOLiD-LIO-SAM](https://github.com/sparolab/SOLiD-LIO-SAM)
 * [ ] Integrated with FAST-LIO2: [SOLiD-FAST-LIO2](https://github.com/sparolab/SOLiD-FAST-LIO2)
+* [ ] Integrated with LT-mapper
 
 ## Note
 * SOLiD can be integrated with various LiDAR odometry including solid-state LiDAR and Situations (i.e. intra-session, inter-session, and multi-robot).
